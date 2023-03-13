@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" >  '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' && echo "File created successfully!"
+echo "Holberton School" > \\\*\\\\"'\"Holberton School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) && echo "File created successfully!"
