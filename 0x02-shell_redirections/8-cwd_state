@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la > ls_cwd_content && echo "ls -la output written to ls_cwd_content"
